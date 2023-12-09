@@ -1,0 +1,425 @@
+[
+    {
+        "Id": "a8eac34f-7007-4101-9c17-e42bedb30673",
+        "Category": "wódka",
+        "Name": "Wyborowa",
+        "Capacity": "0,7L",
+        "Description": "Produkowana jest w 100% z ziarna żyta. Te wyjątkowe cechy pozwalają odróżnić Wódkę Wyborową od innych wódek, powodując, iż jest ceniona przez znawców.",
+        "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Falkooutlet.pl%2Fpl%2Fp%2FWyborowa-40-0%252C7%2F2639&psig=AOvVaw2UCXAJOmgCyeAYoBZyvz3O&ust=1700847485690000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjLj-PU2oIDFQAAAAAdAAAAABAE",
+        "Price": 46
+    },
+    {
+        "Id": "db3add91-4705-4092-9ae1-a36e675c096c",
+        "Category": "wódka",
+        "Name": "PRAVDA",
+        "Capacity": "0,7L",
+        "Description": "Pravda rozlewana jest do ręcznie zdobionych butelek (miesięcznik „Drinks International” uznał butelkę Pravdy za najwytworniejsze z opakowań na rynku wódek) i eksportowana na cały świat. Zalety Pravdy ujawniają się w całej pełni, gdy pije się ją nie zmieszaną z innymi składnikami",
+        "Image": "https://hurtowniaalkoholi.pl/photos/zoom/WPP_A_AG.jpg",
+        "Price": 119
+    },
+    {
+        "Id": "3b750bc6-f59a-451d-b49d-df281f6fd3e7",
+        "Category": "wódka",
+        "Name": "FINLANDIA",
+        "Capacity": "0,7L",
+        "Description": "Finlandia Vodka rodzi się z najlepszego sześciorzędowego jęczmienia, otrzymanego z czystości i nieskazitelności ostrej fińskiej zimy, a potem powolnie dojrzewającego w promieniach Słońca. Następnie jest rafinowana w procesie 200- stopniowej destylacji ciągłej, która nie pozostawia żadnych zanieczyszczeń, a tym samym nie wymaga dodatkowego filtrowania.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/11/20221027_122052-scaled.jpg.webp",
+        "Price": 55
+    },
+    {
+        "Id": "88dcaa5c-4107-44a2-8e93-3332f7eec8ef",
+        "Category": "wódka",
+        "Name": "CIROC",
+        "Capacity": "1,0L",
+        "Description": "CIROC 40% 1L jest to francuska wódka klasy premium produkowana ze spirytusu winnego. Swoją delikatność i gładkość zawdzięcza pięciokrotnej destylacji. Spirytus z winogron daje przyjemny, lekko owocowy posmak na końcu.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/09/20220901_110646-scaled.jpg.webp",
+        "Price": 239
+    },
+    {
+        "Id": "f717d2d6-ec6a-4688-9c1a-6ca419e18d40",
+        "Category": "wódka",
+        "Name": "BACZEWSKI",
+        "Capacity": "0,7L",
+        "Description": "Wódka Baczewski istnieje od 1782 roku kiedy rodzina Baczewskich postanowiła pod Lwowem otworzyć pierwszą gorzelnię. W 1810 roku została przeniesiona do Lwowa, a jakość produkowanej wódki została nagrodzona przez władze austriackie Godłem Cesarskiego Orła. W 1856 roku właścicielem został Józef Adam Baczewski ( stąd dzisiejsza nazwa J.A. Baczewski ), który jako pierwszy wprowadził na rynek butelki w kształcie karafki oraz jako jedyny w Europie skutecznie wykorzystał reklamę. W 1939 roku lwowska fabryka została zrównana z ziemią. Mimo tego tradycje firmy są dalej kontynuowane w wiedeńskiej wytwórni",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/06/20220603_110748.jpg.webp",
+        "Price": 64
+    },
+    {
+        "Id": "a4c69b82-ea51-4af6-8b93-9f187346c165",
+        "Category": "wódka",
+        "Name": "GREY GOOSE",
+        "Capacity": "0,7L",
+        "Description": "Grey Goose to francuska wódka mająca swoje korzenie w rejonie Cognac. Dzięki wykorzystaniu najlepszej gatunkowo francuskiej pszenicy oraz artezyjskej wody z Masywu Centralnego uzyskano głęboki, subtelny smak i delikatny aromat.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/11/20221110_112904-scaled.jpg.webp",
+        "Price": 209
+    },
+    {
+        "Id": "758c8a9c-28f9-467d-9a7f-f0b4b33c54d3",
+        "Category": "wódka",
+        "Name": "DANZKA",
+        "Capacity": "1,0L",
+        "Description": "DANZKA to wyjątkowa w smaku duńska wódka, która wyróżnia się ciekawym, czystym smakiem, będącym wynikiem zastosowania do jej produkcji zdemineralizowanej wody. Alkohol w procesie filtracji jest oczyszczany za pomocą specjalnej membrany, dzięki której uzyskuje się czysty, nieskazitelny smak.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/10/20221019_114525-scaled.jpg.webp",
+        "Price": 99
+    },
+    {
+        "Id": "02470013-4d4a-4c87-9135-d4c8ef85e10c",
+        "Category": "wódka",
+        "Name": "CRYSTAL HEAD",
+        "Capacity": "1,75L",
+        "Description": "Crystal Head 40% to kanadyjska wódka o niepowtarzalnej historii, produkowana przez znanego aktora Dan Aykroyda i artystę Johna Alexandra. Jej charakterystyczna butelka w kształcie czaszki oraz przejrzysty, krystaliczny kolor sprawiają, że jest to wódka nie tylko doskonała w smaku, ale także efektowna w prezentacji. To wyjątkowy trunek, który z pewnością zachwyci każdego miłośnika luksusowych alkoholi.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/06/20230613_114715-1.jpg.webp",
+        "Price": 539
+    },
+    {
+        "Id": "7b3d14ca-eb6c-42ad-9192-3681487cbcfc",
+        "Category": "wódka",
+        "Name": "Stock Prestige",
+        "Capacity": "0,7L",
+        "Description": "Stock Polska prezentuje luksusową wódkę klasy premium Stock Prestige Vodka. Najwyższe standardy jakości oraz 6- stopniową destylaca gwarantują wyjatkową łagodność smaku. Składniki używane do produkcji poddawane są dokładnej wieloetapowej selekcji i kontroli. Stock Prestige to wynik połączenia ponad 130 lat doświadczenia w wytwarzaniu wysokiej klasy alkoholi z najnowszymi osiągnięciami w produkcji wódki.",
+        "Image": "https://alkoholeswiata24.pl/gfx/1482187819.8092.jpg",
+        "Price": 50.9
+    },
+    {
+        "Id": "bd612f87-7bea-44c1-8272-58b8f7a6fdfb",
+        "Category": "piwo",
+        "Name": "Tyskie",
+        "Capacity": "0,5L",
+        "Description": "Tyskie to polski lager, którego składniki to słód jęczmienny, chmiel i woda1234. Piwo to jest warzone zgodnie z XVI-wieczną zasadą czystości piwa, która mówi, że napój ten musi być warzony tylko i wyłącznie z trzech składników24. Tyskie ma złocistą barwę i idealnie wyważony smak między słodyczą a goryczą",
+        "Image": "https://th.bing.com/th/id/OIP.jXfd5pa8bbqZT_IQ_l2zHgHaKe?rs=1&pid=ImgDetMain",
+        "Price": 3.15
+    },
+    {
+        "Id": "475390bd-857b-4f0c-bf50-701fecf02124",
+        "Category": "piwo",
+        "Name": "Żubr",
+        "Capacity": "0,5L",
+        "Description": "Żubr to marka jasnego, pasteryzowanego piwa, na bazie słodu jęczmiennego, warzonego przez Kompanię Piwowarską SA123. Piwo zawiera 12,1% (wag.) ekstraktu oraz 6,0% (obj.) alkoholu2. Do produkcji piwa używa się zazwyczaj tylko czterech składników: wody, drożdży, słodu i chmielu1. Piwo Żubr jest dostępne w butelkach o pojemności 500 ml i 650 ml oraz w puszkach 500 ml i 550 ml2.",
+        "Image": "https://th.bing.com/th/id/R.cfdbbe9ed4180c1abfec05acb1dc8632?rik=hKLqOyaoUcpiYw&pid=ImgRaw&r=0",
+        "Price": 2.99
+    },
+    {
+        "Id": "428668b0-ca4a-4a81-9a27-021b1911ddea",
+        "Category": "piwo",
+        "Name": "Tatra",
+        "Capacity": "0,5L",
+        "Description": "Piwo Tatra zaczęto produkować pod koniec lat 70. w browarze w Żywcu1. W kolejnej dekadzie stało się ono marką eksportową, przeznaczoną głównie na rynek brytyjski1. Tatra to trzecia pod względem wielkości sprzedaży marka piwa w Polsce2. Piwo Tatra Jasne Pełne ma niezmienny, głęboki smak i jest produkowane z wysokiej jakości składników połączonych z krystalicznie czystą wodą2.",
+        "Image": "https://th.bing.com/th/id/R.0f7fff7340cd036d2e5cb57b117e2b0c?rik=1OwUTa5wKvJpig&pid=ImgRaw&r=0",
+        "Price": 3.49
+    },
+    {
+        "Id": "2939fab5-cd99-465c-926f-1056d6f69cdb",
+        "Category": "piwo",
+        "Name": "Lech",
+        "Capacity": "0,5L",
+        "Description": "Lech – marka piwa produkowanego przez browar Lech Browary Wielkopolski należący do Kompanii Piwowarskiej. W 2013 Lech był siódmą, a w 2015 czwartą najlepiej sprzedającą się marką piwa w Polsce pod względem wartości sprzedaży. 11 marca 2007 roku w nowo otwartej części CHSiB Stary Browar w Poznaniu postawiono największy na świecie kufel wypełnionym piwem Lech Pils[4]. Ustanowiono wtedy rekord Guinnessa w największej liczbie osób pijących z jednego kufla, w którym znajdowało się 4250 litrów tego piwa. W ustanowieniu rekordu wzięło udział 10 625 osób.",
+        "Image": "https://th.bing.com/th/id/R.71ccc5c481a84cd2ca5c88097ab784ae?rik=fVvg1gJyALjOFQ&pid=ImgRaw&r=0",
+        "Price": 4.89
+    },
+    {
+        "Id": "782b3514-11af-47b6-808d-80fb6b8ca898",
+        "Category": "piwo",
+        "Name": "PIWO 1795",
+        "Capacity": "0,33L",
+        "Description": "Samson 1795 to złocisty lager warzony w Czeskich Budziejowicach o czystym, goryczkowo-chmielowym smaku. W produkcji używany jest słód z jęczmienia pochodzącego z browaru, szlachetny chmiel Saaz oraz woda ze studni artezyjskiej umieszczonej 274 metry pod ziemią.",
+        "Image": "1620763213.219.jpg (800×800) (alkoholeswiata24.pl)",
+        "Price": 3.2
+    },
+    {
+        "Id": "5b96a00e-c79e-4f0b-afb1-d888108c021a",
+        "Category": "piwo",
+        "Name": "BUH",
+        "Capacity": "0,5L",
+        "Description": "Piwo BUH to trunek w stylu ale, górnej fermentacji. Docenią je fani lekkich i orzeźwiających piw. To niezwykle aromatyczne połączenie starannie dobranych chmieli angielskich i suszu konopnego. Wyraźne są w nim nuty goryczy, ale w bardzo przystępnym i delikatnym wydaniu.",
+        "Image": "https://alkoholeswiata24.pl/gfx/1615752154.1881.jpg",
+        "Price": 9.99
+    },
+    {
+        "Id": "f66333f2-c696-4424-ba02-ebcdb1b1a2fe",
+        "Category": "piwo",
+        "Name": "CORONA",
+        "Capacity": "0,33L",
+        "Description": "Główną marką Corona jest Corona Extra, o zawartości alkoholu 4.5% (jasny lager). Jest to marka najlepiej sprzedająca się w Meksyku i jedna z pięciu na świecie. W 1997 dostępna w ponad 150 krajach. Produkcję rozpoczęto w roku 1925 w browarze Cerveceria Modelo.",
+        "Image": "https://alkoholeswiata24.pl/gfx/1685432536.9223.jpg",
+        "Price": 5.9
+    },
+    {
+        "Id": "7fefaddc-556b-4b89-a328-a88b8cbe5ce1",
+        "Category": "piwo",
+        "Name": "CORTES",
+        "Capacity": "0,33L",
+        "Description": "Cortes to niezwykle lekkie, jasne piwo o gładkim smaku. Wyczuwalne w nim delikatne, słodowo- goryczkowe nuty idealnie układają się również w kompozycji z tequilą. To piwo, które potrafi doskonale wnieść orzeźwienie i pozwala na pełny relaks. Nadaje rytm dobrej zabawie, podczas długich godzin spędzonych z przyjaciółmi.",
+        "Image": "https://alkoholeswiata24.pl/gfx/1628833487.9519.jpg",
+        "Price": 5.19
+    },
+    {
+        "Id": "48b09d5f-6177-43ed-bc6d-9083fcd37722",
+        "Category": "piwo",
+        "Name": "Warka",
+        "Capacity": "0,5L",
+        "Description": "Warka – jasne piwo dolnej fermentacji typu lager o zawartości ekstraktu 12,5% oraz alkoholu 5,2%. Produkowane jest w browarze w Warce od 1975 r. oraz w browarze w Żywcu i browarze w Elblągu.",
+        "Image": "https://th.bing.com/th/id/OIP.86GMOgLGOLpQPFRcW57RfQHaHa?rs=1&pid=ImgDetMain",
+        "Price": 5.58
+    },
+    {
+        "Id": "65c68bc6-dda7-433f-bc58-199fab7d7a3f",
+        "Category": "piwo",
+        "Name": "Dębowe",
+        "Capacity": "0,5L",
+        "Description": "Dębowe to autentyczny piwny majstersztyk. Jest to najwyższej jakości lager o bogatym smaku dla dojrzałych piwoszy. W smaku jest lekko słodowy z wyczuwalnym alkoholem2. Długo pozostaje w ustach, a smak alkoholu został dobrze zamaskowany. Nasycenie jest bardzo dobre, długo się utrzymuje i nie przeszkadza w degustacji.",
+        "Image": "https://th.bing.com/th/id/R.26523ff22c32d48ee1989839af1cb5af?rik=i5YgnuG7hVbcpA&pid=ImgRaw&r=0",
+        "Price": 2.99
+    },
+    {
+        "Id": "54125b95-68ff-4370-835a-9005be0f9418",
+        "Category": "whisky",
+        "Name": "CHIVAS REGAL 25Y",
+        "Capacity": "0.7L",
+        "Description": "Chivas Regal 25Y to luksusowa whisky blended, która jest produkowana w Szkocji od 1801 roku. Whisky ta jest starzona przez co najmniej 25 lat w dębowych beczkach po bourbonie i sherry.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/11/IMG_3428-scaled.jpg",
+        "Price": 1499
+    },
+    {
+        "Id": "0e1053ab-0205-40df-9d3a-54b6dc7184ce",
+        "Category": "whisky",
+        "Name": "J.WALKER RED",
+        "Capacity": "0.5L",
+        "Description": "Johnnie Walker Red Label to najpopularniejsza whisky na świecie. Jej historia sięga 1820 roku, kiedy to John Walker, założyciel firmy, rozpoczął sprzedaż whisky w Edynburgu. W 1867 roku jego syn Alexander Walker zaczął eksportować whisky do Stanów Zjednoczonych, co przyczyniło się do jej międzynarodowej popularności.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/11/IMG_3435-scaled.jpg",
+        "Price": 49
+    },
+    {
+        "Id": "0e866023-831f-459b-bfc1-1e9ba95a482a",
+        "Category": "whisky",
+        "Name": "GRANT’S",
+        "Capacity": "0.5L",
+        "Description": "Grant’s to popularna i łatwa do picia whisky blendowana o bogatym, złożonym smaku. Jest to doskonała propozycja dla osób, które dopiero zaczynają swoją przygodę z whisky.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/11/IMG_3433-scaled.jpg",
+        "Price": 51
+    },
+    {
+        "Id": "20a168e6-808e-40bd-b26d-11dc653d5173",
+        "Category": "whisky",
+        "Name": "BALLANTINE’S PASSION",
+        "Capacity": "0.7L",
+        "Description": "Ballantine’s Passion to limitowana edycja whisky blendowanej, która zachwyci wielbicieli słodkich, owocowych whisky. Jest to doskonała propozycja na prezent lub do własnej kolekcji.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/11/IMG_3434-scaled.jpg",
+        "Price": 65
+    },
+    {
+        "Id": "212eac60-b604-4f82-bfd4-3292a70f9377",
+        "Category": "whisky",
+        "Name": "BLACK IRISH WHSIKY WITH STOUT",
+        "Capacity": "0.7L",
+        "Description": "BLACK IRISH WHISKY WITH STOUT 40% to ekskluzywna whisky pochodząca z Irlandii, wytwarzana przez cenioną firmę z dbałością o tradycję i jakość. Jej unikalny smak, wynikający z połączenia tradycyjnej irlandzkiej whisky z odrobiną stouta, czyni ją wyjątkowym wyborem dla miłośników whisky na całym świecie.",
+        "Image": "https://molloys.ie/cdn/shop/products/BLACK-IRISH-SALES-SHEET-A4_v3-AW_2000x.jpg",
+        "Price": 199
+    },
+    {
+        "Id": "c06e99a7-b9aa-4a84-b7da-8123276e8b43",
+        "Category": "whisky",
+        "Name": "JOHNNIE WALKER BLACK LABEL 12YO",
+        "Capacity": "3L",
+        "Description": "Johnnie Walker Black Label jest kompozycją ponad 40 pojedynczych gatunków whisky, z których najmłodsza dojrzewała przynajmniej 12 lat w specjalnie dobranych dębowych beczkach.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/11/20221110_113603-scaled.jpg.webp",
+        "Price": 849
+    },
+    {
+        "Id": "d1e20530-5c83-4cdf-934f-4ff45bd4afd2",
+        "Category": "whisky",
+        "Name": "LOCH LOMOND THE OPEN SPECIAL EDITION",
+        "Capacity": "0.7L",
+        "Description": "Wyjątkowy smak whisky LOCH LOMOND THE OPEN SPECIAL EDITION, w którym wyczuwalne są nuty truskawek, limonki i biszkoptów, to idealny sposób na uczczenie każdej chwili.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/10/20221019_112522-scaled.jpg",
+        "Price": 209
+    },
+    {
+        "Id": "5db55088-f823-4384-a2de-8d5c274bf188",
+        "Category": "whisky",
+        "Name": "TOMATIN 12YO BOURBON SHERRY CASK",
+        "Capacity": "1L",
+        "Description": "Tomatin 12YO Bourbon Sherry Cask 43% to wyjątkowa whisky pochodząca ze Szkocji, która zachwyca bogatym i zrównoważonym smakiem. Destylarnia Tomatin stoi za tym szlachetnym trunkiem, który wyróżnia się unikalnym połączeniem destylatów starzonych w beczkach po bourbonie i po sherry. To doskonały wybór dla tych, którzy poszukują wyjątkowych doznań smakowych wśród szkockich whisky",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/01/20230125_134434-scaled.jpg",
+        "Price": 199
+    },
+    {
+        "Id": "88c6ea9b-1f14-488f-a73b-84550e57ee93",
+        "Category": "whisky",
+        "Name": "QUIET MAN SUPERIOR IRISH BLEND",
+        "Capacity": "0,7L",
+        "Description": "QUIET MAN SUPERIOR IRISH BLEND to nieskomplikowana irlandzka whisky, która stanowi solidny pierwszy krok na drodze do poznania smaków Szmaragdowej Wyspy. Trunek powstał ze zmieszania 3-letnich destylatów zbożowych z domieszką 4-letnich destylatów jęczmiennych, które nadały całości odrobiny ostrości podczas finiszu.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/10/20220923_110633-scaled.jpg.webp",
+        "Price": 169
+    },
+    {
+        "Id": "c3ed7886-a9a2-4182-86c4-9780d8eadbb9",
+        "Category": "whisky",
+        "Name": "GLEN GRANT",
+        "Capacity": "1L",
+        "Description": "Dziesięcioletnia whisky single malt z regionu Speyside stanowi znakomity wybór dla osób rozpoczynających swoją przygodę z degustacją tego typu trunków. GLEN GRANT 10Y przez dekadę dojrzewał w dębowych beczkach po bourbonie, dzięki czemu uzyskał łagodny, zrównoważony smak, łączący łagodną słodycz z bardziej wytrawnymi nutami, charakterystycznymi dla szkockich whisky.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/08/20220805_105655-scaled.jpg",
+        "Price": 189
+    },
+    {
+        "Id": "0c91213d-36dd-4c1c-ada3-f20891e435e6",
+        "Category": "wino",
+        "Name": "MARLBOROUGH SUN SAUVIGNON BLANC BUBBLES MARLBOROUGH 2021",
+        "Capacity": "0,75L",
+        "Description": "MARLBOROUGH SUN SAUVIGNON BLANC BUBBLES MARLBOROUGH to lekkie, musujące wino z Nowej Zelandii, które od pierwszego łyku zaskakuje połączeniem tropikalnych owoców, bąbelków oraz zawartości alkoholu na poziomie 12,5%. Dzięki nasyceniu dwutlenkiem węgla trunek zachowuje jedwabisty smak, co czyni z tego wina idealny wybór na lato.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/12/20221215_134817-scaled.jpg.webp",
+        "Price": 85
+    },
+    {
+        "Id": "33e9fa22-7e7d-45cd-b2d5-cafc0799fdd8",
+        "Category": "wino",
+        "Name": "CAVA FREIXENET ICE",
+        "Capacity": "0,75L",
+        "Description": "Freixenet Ice powstaje z zastosowaniem metody tradycyjnej na bazie gron: Chardonnay, Parellada, Macabeo oraz Xarel·lo. Proces dojrzewania na osadzie trwa od 12 do 14 miesięcy.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/11/20221110_120836-scaled.jpg.webp",
+        "Price": 39
+    },
+    {
+        "Id": "5bae5360-746f-424e-9e92-e6ba25997b9b",
+        "Category": "wino",
+        "Name": "PORTO SANDEMAN TAWNY",
+        "Capacity": "0,75L",
+        "Description": "Porto Sandeman Tawny to wino do produkcji którego używa się gron zbieranych ręcznie. Dojrzewa w małych beczkach dębowy zw.barrique. Cechuje się równowagą smaku owocu i dębu. Doskonale na aperitif jak również digestive.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/11/20221110_125445-scaled.jpg.webp",
+        "Price": 65
+    },
+    {
+        "Id": "67bab62f-892c-43b3-a6d2-6763b35a1c46",
+        "Category": "wino",
+        "Name": "CAVA FREIXENET CORDON NEGRO",
+        "Capacity": "0,75L",
+        "Description": "Rześkie i orzeźwiające FREIXENET CORDON NEGRO to hiszpańskie wino o zawartości alkoholu 11,5%, które stanowi synonim musującego gatunku cava. Mocno wytrawny, zawierający ogromną ilość bąbelków trunek, zamknięty w charakterystycznej czarnej butelce o pojemności 0,75 litra, jest rozpoznawalnym na całym świecie symbolem elegancji oraz dobrej zabawy.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/08/20220805_103441-scaled.jpg.webp",
+        "Price": 39
+    },
+    {
+        "Id": "c698fb58-c86e-4d79-b984-984a60a6c8ec",
+        "Category": "wino",
+        "Name": "PINOT NOIR CLASSIC „BESTHEIM”",
+        "Capacity": "0,75L",
+        "Description": "Pinot Noir Classic „Bestheim” 0,75 to prawdziwa perełka w świecie win. Ten wyjątkowy wyrób wina emanuje niepowtarzalnym kolorem, bogatym smakiem i korzeniami w pięknej odmianie szczepu. Jego producentem jest cenione winiarstwo Bestheim, które nieprzerwanie zdobywa uznanie miłośników win na całym globie.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/06/20230620_092107.jpg.webp",
+        "Price": 85
+    },
+    {
+        "Id": "0e9e49cc-ab56-4d52-b6f6-3e38ee99d6a7",
+        "Category": "wino",
+        "Name": "BAROLO DOCG BATASIOLO BLACK LABEL",
+        "Capacity": "0,75L",
+        "Description": "Odkryj duszę Piemontu w każdym łyku Barolo DOCG Batasiolo Black Label. To wino, które nie tylko podbije Twoje podniebienie, ale również zapewni niezapomniane doświadczenie, które z pewnością zostanie w Twojej pamięci na długo. Przyłącz się do tej winiarskiej podróży i oddaj hołd niepowtarzalności i wykwintności włoskiego wina.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/06/20230620_092758.jpg.webp",
+        "Price": 179
+    },
+    {
+        "Id": "ad46d9e5-a44d-4237-8c4b-427d8b2a0b14",
+        "Category": "wino",
+        "Name": "HAMBACH RIESLING DR. JOSEF KOHR",
+        "Capacity": "0,75L",
+        "Description": "To wino wyróżnia się również swoim pochodzeniem. Region Hambach w Niemczech jest znany z doskonałych warunków klimatycznych i glebowych, które sprzyjają uprawie winorośli. To połączenie czynników nadaje Hambach Riesling QbA niepowtarzalne właściwości i wyjątkowy charakter.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/06/20230620_092341.jpg.webp",
+        "Price": 67
+    },
+    {
+        "Id": "5ae6144b-6b18-40aa-b683-cca3155786ca",
+        "Category": "wino",
+        "Name": "Chablis AOC Labouré-Roi",
+        "Capacity": "0,75L",
+        "Description": "Degustacja tego wina to wyjątkowe doświadczenie, które oczaruje miłośników białych win. Wyjątkowy kolor, złożony smak i wysoka jakość czynią to wino Chablis AOC Labouré-Roi 0,75l idealnym wyborem dla tych, którzy poszukują wyjątkowych i niezapomnianych smaków.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/06/20230620_091815.jpg.webp",
+        "Price": 129
+    },
+    {
+        "Id": "cc3e66fa-d8fd-4df5-acff-626a30aa1bfb",
+        "Category": "rum",
+        "Name": "BACARDI OAKHEART",
+        "Capacity": "0,7L",
+        "Description": "Bacardi Oakheart jest starzony od 1 do 2 lat w beczkach po bourbonie. Następnie do destylatu dodawany jest m.in. syrop klonowy, cynamon, gałka muszkatołowa i miód. Pojawił się na rynku w 2011 roku. Doskonały do picia z lodem lub jako dodatek do drinków.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/01/bacardi_oakheart.jpg.webp",
+        "Price": 97
+    },
+    {
+        "Id": "6c7c752e-cd21-4da2-954c-40fb81aa0ef5",
+        "Category": "rum",
+        "Name": "SANTIAGO DE CUBA ANEJO",
+        "Capacity": "0,7L",
+        "Description": "Rum Santiago de Cuba Anejo to kubański trunek o wspaniałej, cynamonowej barwie. Posiada bardzo przyjemny, słodki zapach nasuwający skojarzenia z rodzynkami w likierze, a w smaku czuć nuty sułtanek i prażonych orzechów.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/09/20220909_120812-scaled.jpg.webp",
+        "Price": 89
+    },
+    {
+        "Id": "473286bf-45c4-437d-aed0-a542c1282e07",
+        "Category": "rum",
+        "Name": "STROH",
+        "Capacity": "0.5L",
+        "Description": "STROH 80% to legendarny rum z Austrii, którego moc i intensywność uczyniły go niezapomnianym dla miłośników mocnych trunków. Jego historia sięga ponad wiek, a jego wyjątkowy smak i aromat pozostaną w pamięci na długo. To wyjątkowy trunek, który zachwyci każdego miłośnika rumu.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/07/20220701_111602-scaled.jpg.webp",
+        "Price": 109
+    },
+    {
+        "Id": "a344029d-c9de-478d-8976-6dd09ac6253d",
+        "Category": "rum",
+        "Name": "BUMBU THE ORIGINAL",
+        "Capacity": "0,7L",
+        "Description": "Bumbu The Original powstaje w wyniku destylacji trzciny cukrowej uprawianej w ośmiu różnych krajach Karaibów i Ameryki Łacińskiej. Destylaty rumu dojrzewają do 15 lat w beczkach z dębu amerykańskiego, w których leżakował Bourbon.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/05/20230510_102932-scaled.jpg.webp",
+        "Price": 189
+    },
+    {
+        "Id": "357aa904-495f-47c4-807f-ddad831e5293",
+        "Category": "rum",
+        "Name": "KRAKEN BLACK SPICED",
+        "Capacity": "0,7L",
+        "Description": "Kraken Black Spiced jest mieszanką rumów z Trynidadu i Tobago oraz Wysp Dziewiczych. Destylowany jest z melasy i leżakowany od 12 do 24 miesięcy. Przed rozlaniem do butelek rum doprawiany jest mieszanką 13 ziół, z czego znane są tylko 3 składniki: imbir, goździki i cynamon.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/11/20221027_133026-scaled.jpg",
+        "Price": 114
+    },
+    {
+        "Id": "9d8f34b0-f3fa-4a5c-83a4-ca304b00c161",
+        "Category": "rum",
+        "Name": "BUMBU XO",
+        "Capacity": "0,7L",
+        "Description": "Elegancka matowa butelka ze srebrnym reliefem kryje bardziej dojrzałego kolegę legendarnego rumu Bumbu. Bumbu XO to panamski rum, który dojrzewał przez 18 lat w beczkach po bourbonie, a następnie leżakował w beczkach po hiszpańskiej sherry. Rezultatem jest dobrze zbilansowany i niebezpieczny napój. Zachwyci tony karmelu, opalonego dębu i wanilii, do których stopniowo dodawane są skórka pomarańczy, pikantne przyprawy i lekka nuta kawy.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/11/IMG_3265-scaled.jpeg",
+        "Price": 229
+    },
+    {
+        "Id": "faac8f80-ca10-4415-9012-7f5e6888acd1",
+        "Category": "rum",
+        "Name": "DON PAPA BAROKO",
+        "Capacity": "0,7L",
+        "Description": "Don Papa Baroko to doskonały filipiński rum o gładkim, słodkim smaku, wzbogaconym dodatkiem starannie wyselekcjonowanych przypraw. Za niezwykłe walory trunku odpowiadają najwyższej jakości składniki oraz proces dojrzewania destylatu w dębowych beczkach po bourbonie.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/07/20220725_130314-scaled.jpg",
+        "Price": 239
+    },
+    {
+        "Id": "306a09cb-8004-420c-8c13-428a5919ac9e",
+        "Category": "champagne",
+        "Name": "DOM PERIGNON VINTAGE",
+        "Capacity": "0,75L",
+        "Description": "Dom Perignon to niekwestionowany lider kategorii Prestige Cuvee- ekskluzywnych szampanów. Po siedmiu latach spędzonych w piwnicach, Dom Perignon osiągnął pełnię dojrzałości. Jest on klasycznym przykładem ducha Dom Perignon, ale z własną tajemniczą nutą i zdecydowaną osobowością.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/01/dom_perignon_2008.jpg",
+        "Price": 1100
+    },
+    {
+        "Id": "c04f82bb-f5e1-43d0-9fdc-ffd367c6f261",
+        "Category": "champagne",
+        "Name": "RUINART BLANC DE BLANC",
+        "Capacity": "0,75L",
+        "Description": "RUINART BLANC DE BLANC 12,5% to francuski szampan klasy premium na wyjątkowe okazje. Swoim smakiem uświetni każdą uroczystość, dodając jej elegancji i niepowtarzalnego stylu. Trunek o lekkim, świeżym bukiecie, w którym nuty białych owoców i delikatnych cytrusów mieszają się ze zrównoważoną ilością bąbelków, zachwyca wytrawnym charakterem.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2023/06/20230613_113538.jpg.webp",
+        "Price": 579
+    },
+    {
+        "Id": "8b8ed2bc-de2a-4be3-89dd-6e8b583f8280",
+        "Category": "champagne",
+        "Name": "BOLLINGER ROSE",
+        "Capacity": "0,75L",
+        "Description": "Bollinger Rose debiutował na rynku w 2008 roku. Wytwarzany jest ze szczepów Pinot Noir, Pinot Meunier oraz Chardonnay. 85% winorośli wykorzystywanych do jego produkcji pochodzi z parcel klasy Grand Cru oraz Premier Cru. Należy podawać go w temperaturze 10°-12°C. Doskonale komponuje się z owocami morza oraz deserami owocowymi.",
+        "Image": "https://www.alkoholeswiata.com/wp-content/uploads/2022/09/20220825_120654-scaled.jpg.webp",
+        "Price": 399
+    }
+]
